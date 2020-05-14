@@ -1,8 +1,8 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-  height: 250px;
-  width: 300px;
+  height: 230px;
+  width: 250px;
   display: flex;
   flex-direction: column;
   border: 3px solid blue;
@@ -14,7 +14,7 @@ export const Container = styled.div`
   }
   input {
     width: 80%;
-    height: 30px;
+    height: 20px;
     margin: 10px;
     text-align: center;
   }

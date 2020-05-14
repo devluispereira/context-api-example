@@ -1,12 +1,17 @@
 import React, { useContext, useState } from "react";
 
-import UserGlobalContext from "../../context/user/context";
+//importando o contexto UserContext
+import UserContext from "../../context/user/context";
 
+//Container criado no styled-components
 import { Container } from "./styles";
+
 const ChildrenOne: React.FC = () => {
-  const { setState, state } = useContext(UserGlobalContext);
+  //estado para manipular o novo nome
+  const { setState, state } = useContext(UserContext);
   const [name, setName] = useState<string>("");
 
+  //função que irá submeter a alteração do novo nome
   function handleEditName() {
     setState({
       ...state,
