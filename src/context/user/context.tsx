@@ -2,7 +2,6 @@ import React, { createContext, useState } from "react";
 
 //Tipando os dados que quero para usuário
 type UserType = {
-  id: any;
   name: string;
   lastName: string;
   email: string;
@@ -17,7 +16,6 @@ type PropsUserContext = {
 //Valor default do contexto
 const DEFAULT_VALUE = {
   state: {
-    id: null,
     name: "",
     lastName: "",
     email: "",
