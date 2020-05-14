@@ -28,7 +28,7 @@ const ChildrenThree: React.FC = () => {
       </button>
       <div>
         <span>
-          name : <strong>{state.name}</strong>
+          nome : <strong>{state.name}</strong>
         </span>
         <span>
           Sobrenome : <strong>{state.lastName}</strong>
