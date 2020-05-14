@@ -2,7 +2,7 @@
 
 ### Projeto oriundo do artigo publicado no Medium [Click aqui para acessar](dsdsda)
 
-### Link da aplicação para você fazer testes -> [Click aqui para acessar](dsdsda)
+### Link da aplicação para você fazer testes -> [Click aqui para acessar](https://optimistic-jackson-5fa678.netlify.app/)
 
 ## Faça download do código e divirta-se.
 
