@@ -9,7 +9,7 @@
 
 ### Para iniciar aplicação:
 
-    //Faça o colne do repositório e rode o comando:
+    //Faça o clone do repositório execute o comando:
     yarn
 
     //Depois
